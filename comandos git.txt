@@ -1,0 +1,6 @@
+git add: adicionar os arquivos ao commit.
+git commit: registra os commits dos arquivos adicionados.
+sem o parâmetro -m ele abre o editor de texto.
+git push: envia para o repositorio remoto.
+git status: mostra os estados dos arquivos do repositório
+git log: mostra os histórico de arquivos alterados.
