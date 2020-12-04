@@ -5,3 +5,5 @@ git push: envia para o repositorio remoto.
 git status: mostra os estados dos arquivos do repositório
 git log: mostra os histórico de arquivos alterados.
 git diff: exibi a diferença entre commits e branchs
+git clone: clona um repositorio remoto
+git pull: atualiza o repositorio com os commits.
