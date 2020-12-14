@@ -2,3 +2,4 @@ utfpr
 casa
 estação
 garrafeiro
+smart fit
