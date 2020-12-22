@@ -7,12 +7,14 @@ git log: mostra os histórico de arquivos alterados.
 git diff: exibi a diferença entre commits e branchs
 git clone: clona um repositorio remoto
 git pull: atualiza o repositorio com os commits.
-<<<<<<< HEAD
 git checkout <numero do commit>: retorna o repositorio no commit especificado. (para sair git checkout master).
 git checkout -- : reverte a alteração do arquivo antes do stage.
 git checkout --HEAD : reverte as alterações depois de ser adicionado ao stage.
+git checkout <nome da branch>: muda de branch
 git revert: reverte um commit realizado,
 git reset: retorna o repositório ao um commit anterior.(verificar as opções).
-=======
-git checkout <numero do commit>: retorna o repositorio no commit especificado. (para sair git checkout master).
->>>>>>> 8b9c289e9863df91790b98384552203da141cd14
+--branch (lista de commits/ ramificações do repositório)
+branch master é a padrão.--
+git branch : mostra as branchs do repositorio.
+git branch <nome da nova branch>: cria uma nova branch.
+git branch -d <nome da brach>: deleta uma branch.
