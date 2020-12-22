@@ -10,4 +10,8 @@ alisson
 renato
 welligton
 rafael
+diego
+pirog
+paula
+pedro
 
