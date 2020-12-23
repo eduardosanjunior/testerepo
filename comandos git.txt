@@ -18,3 +18,4 @@ branch master é a padrão.--
 git branch : mostra as branchs do repositorio.
 git branch <nome da nova branch>: cria uma nova branch.
 git branch -d <nome da brach>: deleta uma branch.
+git merge< nome da branch> : atualiza uma branch atual com os commits de outro merge.
